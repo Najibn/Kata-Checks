@@ -1,0 +1,17 @@
+Kata 55 per l'especialitat fullstackPHP 13-3-25
+
+Escriu un algoritme que llegeixi un nombre enter i determini si és parell o imparell.
+
+Si és parell, que escrigui tots els parells de manera descendent des de si mateix fins a 0.
+Si és imparell, que escrigui tots els imparells de manera descendent des de si mateix fins a l'1.
+El nombre que entri al programa ha d'entrar directament a la variable "number".
+
+english!
+Kata 55 for the fullstackPHP specialty 13-3-25
+
+Write an algorithm that reads an integer and determines whether it is even or odd.
+
+If it is even, write all the even numbers in descending order from itself to 0.
+
+If it is odd, write all the odd numbers in descending order from itself to 1.
+The number entered into the program must be entered directly into the variable "number".
