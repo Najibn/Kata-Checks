@@ -1,0 +1,41 @@
+Kata 57 per l'especialitat fullstackPHP 3-4-25
+
+Avui programarem part de la lògica del videojoc Final Fantasy VII.
+ En concret, part de la lògica del combat.
+
+En un combat tenim 3 personatges. Cada personatge té:
+
+Nom
+Punts de vida actual
+Punts de magia actual
+Comandes
+Cada comanda es una opció/acció que el personatge pot realitzar.
+ Cada comanda té un nom i al ser invocat mostra un missatge relacionat.
+
+Per exemple, si el personatge Cloud fa servir la comanda "Atacar" es mostrarà per pantalla:
+
+"Cloud ha atacat!"
+
+A més, crea una lògica que ens retorni el personatge amb menys vida actual en el moment.
+
+
+translation**************************
+
+video game Final Fantasy VII...
+
+scenario, we have three characters and each character has:
+
+name
+Current HP :(Health Points)
+Current MP :(Magic Points)
+Commands:  Commands are options/actions that the character can perform.
+ Each command has a name, and when invoked, it displays a related message.
+
+example, 
+if the character Cloud uses the "Attack" command, 
+message will be displayed:
+
+"Cloud has attacked!"
+
+Additionally, 
+create logic that returns the character with the least current HP at any given moment.
