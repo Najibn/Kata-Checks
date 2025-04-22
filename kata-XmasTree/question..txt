@@ -1,0 +1,32 @@
+kata-christmas-2024
+Kata 50(!!!) per l'especialitat fullstackPHP 19-12-24
+
+Donat un nombre enter, genera un arbre de Nadal per terminal.
+Given an integer number, generate a Christmas tree in the terminal.
+
+Input
+
+3
+
+4
+
+Output
+
+   *
+  ***
+ *****
+  |||
+
+      *
+     ***
+    *****
+   *******
+     |||
+
+
+I si el problema troncal us sembla fàcil, a vera que us inventeu per millorar això! :D :D :D
+And if the core problem seems easy to you, let's see what you can come up with to improve it!
+
+Bon any nou!!
+
+ 
